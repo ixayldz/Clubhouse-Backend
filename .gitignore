@@ -1,0 +1,36 @@
+# Node.js modülleri
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ortam değişkenleri dosyası
+.env
+
+# Redis ve MongoDB verileri
+dump.rdb
+*.log
+*.lock
+
+# Log dosyaları
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE'ler ve Editörler
+.vscode/
+.idea/
+*.sublime-workspace
+
+# İşletim Sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Üretim derleme dosyaları
+build/
+dist/
+
+# Diğer
+coverage/
